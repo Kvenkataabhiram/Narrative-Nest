@@ -1,0 +1,6 @@
+AIzaSyDv2TLaj0SKtWVQhbsv7mqTjFPl7WgBCmY
+google-generativea
+python-dotenv
+pathlib
+python-box
+streamlit
